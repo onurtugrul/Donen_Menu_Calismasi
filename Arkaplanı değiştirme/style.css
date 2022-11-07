@@ -1,0 +1,17 @@
+#background-color{
+    background-color: rgb(36, 32, 33);
+    height: 1000px;
+    padding: 50px;
+}
+
+.renkdegistir{
+    background-color: blue;
+}
+
+.border{
+    border: 10px solid #000;
+}
+
+#h4color{
+    color: #fff;
+}
